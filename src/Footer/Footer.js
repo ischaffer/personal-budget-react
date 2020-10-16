@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
   return (
     <div className="footer">
-        <div class="center">
+        <div className="center">
             All rights reserved &copy; Fabio Nolasco
         </div>
     </div>
